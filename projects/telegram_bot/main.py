@@ -44,7 +44,7 @@ def coin(update, context):
 
 
 def main():
-    TOKEN = "1914536904:AAF4ZnqNvyg1pk-1pCPzTqhDYggAyf-1CF8"
+    TOKEN = "add yout token"
 
     updater = Updater(TOKEN, use_context=True)
 
