@@ -84,14 +84,6 @@ This repository serves as a learning platform where my students contribute Pytho
 
 ---
 
-## 📊 Project Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shivas1432&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&icon_color=00D4AA&text_color=FFFFFF&count_private=true&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivas1432&layout=compact&theme=synthwave&hide_border=true&bg_color=0D1117&title_color=FF6EC7&text_color=FFFFFF&langs_count=8"/>
-</div>
-
----
 
 ## Contributing
 
@@ -210,13 +202,6 @@ projects/
 
 ---
 
-## 🎖️ Achievements & Recognition
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shivas1432&theme=synthwave&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-</div>
-
----
 
 ## 💡 Project Ideas & Roadmap
 
@@ -235,21 +220,6 @@ projects/
 
 ---
 
-## 📈 Repository Analytics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivas1432&theme=synthwave-84&hide_border=true&stroke=FF6EC7&background=0D1117&ring=00D4AA&fire=FF6EC7&currStreakLabel=00D4AA&dates=FFFFFF&currStreakNum=FF6EC7&sideNums=FF6EC7&sideLabels=FFFFFF" alt="GitHub Streak"/>
-</div>
-
----
-
-## 💬 Developer Insights
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=4000&pause=2000&color=00D4AA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=%22Code+is+like+humor.+When+you+have+to+explain;it%2C+it's+bad.%22+-+Cory+House;%22The+best+programs+are+written+so+that+computing;machines+can+perform+them+quickly+and+so+that;human+beings+can+understand+them+clearly.%22" alt="Developer Quote"/>
-</div>
-
----
 
 ## 🌟 Why Choose This Repository?
 
@@ -269,24 +239,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👥 Contributors & Project Authors ✨
-
-This repository builds upon the amazing work of the Python community. Here are all the contributors and their projects:
-
-| SR No | Project | Author |
-|-------|---------|--------|
-| 1 | [Hello World](https://github.com/Python-World/python-mini-projects/tree/master/projects/Hello) | [Ravi Chavare](https://github.com/chavarera) |
-| 2 | [JSON to CSV](https://github.com/Python-World/python-mini-projects/tree/master/projects/Convert_JSON_to_CSV) | [Murilo Pagliuso](https://github.com/DarkCeptor44) |
-| 3 | [Random Password Generator](https://github.com/Python-World/python-mini-projects/tree/master/projects/Random_password_generator) | [Mitesh](https://github.com/Mitesh2499) |
-| 4 | [Instagram Profile Info](https://github.com/Python-World/python-mini-projects/tree/master/projects/Instagram_profile) | [Ravi Chavare](https://github.com/chavarera) |
-| 5 | [Search string in Files](https://github.com/Python-World/python-mini-projects/tree/master/projects/String_search_from_multiple_files) | [Mitesh](https://github.com/Mitesh2499) |
-| 6 | [Fetch links from Webpage](https://github.com/Python-World/python-mini-projects/tree/master/projects/All_links_from_given_webpage) | [Mitesh](https://github.com/Mitesh2499) & [Michael Mba](https://github.com/mikeysan) |
-| 7 | [Todo App With Flask](https://github.com/Python-World/python-mini-projects/tree/master/projects/Todo_app) | [Mitesh](https://github.com/Mitesh2499) |
-| 8 | [Add Watermark on Images](https://github.com/Python-World/python-mini-projects/tree/master/projects/Image_watermark) | [Mitesh](https://github.com/Mitesh2499) |
-| 9 | [WishList App Using Django](https://github.com/Python-World/python-mini-projects/tree/master/projects/WishList) | [Ravi Chavare](https://github.com/chavarera) |
-| 10 | [Split Folders into Subfolders](https://github.com/Python-World/python-mini-projects/tree/master
-
----
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Thanks+for+visiting+my+Python+projects!;Let's+code+something+amazing+together!;Happy+Coding!+🐍✨" alt="Thanks"/>
