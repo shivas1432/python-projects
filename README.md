@@ -69,51 +69,50 @@ This repository serves as a learning platform where my students contribute Pytho
 
 | **Beginner Projects** | **Intermediate Projects** | **Advanced Projects** |
 |:---------------------:|:-------------------------:|:---------------------:|
-| Alarm Clock | All Links from Webpage | AudioBook |
-| ASCII Art | Battery Notification | Baidu POI Crawler |
-| Calculate Age | Billing System | Bouncing Ball Simulator |
-| Captcha Generator | Capture Screenshot | Capture Video Frames |
-| Cat Command | Check Website Connectivity | CLI Proxy Tester |
-| CLI Todo | Convert JPEG to PNG | Convert JSON to CSV |
-| Convert Image to PDF | Convert Numbers to Word | Convert XML to JSON |
-| Countdown Timer | Currency Converter | Desktop Cleaner |
-| Create Calculator App | Decimal to Binary Converter | Digital Clock |
-| Duplicate Files Remover | Diff Util | DNS Record |
-| Easy Video Player | Dominant Color | Download Images from Website |
-| Encrypt and Decrypt Text | Drowsiness Detection | Easy Cartoonify |
-| Extract Zip Files | Email Automation | Fetch Current Weather |
-| Fetch HTTP Status Code | Fetch and Store Tweets | Fetch Open Ports |
-| Find IMDB Rating | Find IP Address and Hostname | Games Collection |
-| Get Meta Information | Get WiFi Password | Geocoding |
-| GUI Rock-Paper-Scissors | Hash Passwords | Image Watermark |
-| Hello World | Instagram Profile Info | Internet Connection Check |
-| Language Translator | Leap Year Checker | MasterMind |
-| Merge CSV Files | Merge PDFs | Movie Information Scraper |
-| Multi Language OCR | Network Usage Tracker | News Website Scraper |
-| Number Guessing Game | Organize Download Folder | PDF to MP3 |
-| Password Generator | Plagiarism Checker | Python Auto Draw |
-| QR Code Generator | Random Wikipedia Article | Random Password Generator |
-| Random Word from List | Recursive Password Generator | Reduce Image Size |
-| RockPaperScissors Game | S3 File Upload | Scrape HackerNews |
-| Scrape Quotes | Scraping Medium Articles | Send Email from CSV |
-| Set Alarm | Shutdown or Restart Device | Sine Wave |
-| Snake Game | Snapshot of Website | Solver Linear Equations |
-| Space Bullet Shooter | Speaking Dictionary | Speech to Text |
-| Speed Game | Spell Checker | Split File |
-| Split Video by Time | Split Folder into Subfolders | Store Emails in CSV |
-| String Search from Files | Terminal Based Hangman | Terminal Progress Bar |
-| Text to Speech | Text File Analysis | Tic Tac Toe |
-| Tic Tac Toe with AI | Time to Load Website | Todo App with Flask |
-| Unique Words in File | Unstructured Data Processing | Web Page Summarization |
-| Web Scraping YouTube Comments | Website Blocker | WiFi Password Displayer |
-| Wikipedia Search WordCloud | Random Wallpaper Setter | Compress Folder and Files |
-| Move Files Alphabetically | XKCD Downloader | Zip Bruter |
-| Capture Screenshot Tool | Chatbot | Convert PDF to Text |
-| Convert Images | Convert Dictionary to Object | Convert PNG to ICO |
-| Detect Align Faces | Dork Search Google | GeeksForGeeks Downloader |
-| Export MySQL to CSV | Racing Bar Chart Animation | Steganography |
-| Telegram Bot | Text to Morse Code | WhatsApp Bot |
-| Birth Date to Age Calculator | File Encryption and Folder | Create Simple Stopwatch |
+| [Alarm Clock](projects/Alarm%20clock) | [All Links from Webpage](projects/All_links_from_given_webpage) | [AudioBook](projects/AudioBook) |
+| [ASCII Art](projects/Ascii_art) | [Battery Notification](projects/Battery_notification) | [Baidu POI Crawler](projects/Baidu_POI_crawl) |
+| [Calculate Age](projects/Calculate_age) | [Billing System](projects/Billing_system) | [Bouncing Ball Simulator](projects/Bouncing_ball_simulator) |
+| [Captcha Generator](projects/Captcha_Genrator) | [Capture Screenshot](projects/capture_screenshot) | [Capture Video Frames](projects/Capture_Video_Frames) |
+| [Cat Command](projects/cat_command) | [Check Website Connectivity](projects/Check_website_connectivity) | [CLI Proxy Tester](projects/cli_proxy_tester) |
+| [CLI Todo](projects/Cli_todo) | [Convert JPEG to PNG](projects/Convert_JPEG_to_PNG) | [Convert JSON to CSV](projects/Convert_JSON_to_CSV) |
+| [Convert Image to PDF](projects/Convert_a_image_to_pdf) | [Convert Numbers to Word](projects/Convert_numbers_to_word) | [Convert XML to JSON](projects/Convert_XML_To_JSON) |
+| [Countdown Timer](projects/Countdown_timer) | [Currency Converter](projects/Currency_converter) | [Diff Util](projects/Diff_Util) |
+| [Create Calculator App](projects/Create_calculator_app) | [Decimal to Binary Converter](projects/Decimal_to_binary_convertor_and_vice_versa) | [Digital Clock](projects/Digital_clock) |
+| [Duplicate Files Remover](projects/Duplicate%20files%20remover) | [Dominant Color](projects/Dominant_color) | [DNS Record](projects/Dns_record) |
+| [Easy Video Player](projects/EasyVideoPlayer) | [Download Images from Website](projects/Download_images_from_website) | [Drowsiness Detection](projects/Drowsiness%20detection) |
+| [Encrypt and Decrypt Text](projects/Encrypt_and_decrypt_text) | [Easy Cartoonify](projects/Easy_cartoonify) | [Email Automation](projects/Send_email_from_csv) |
+| [Extract Zip Files](projects/Extract_zip_files) | [Fetch Current Weather](projects/Fetch_current_weather) | [Fetch and Store Tweets](projects/Fetch_and_store_tweets) |
+| [Fetch HTTP Status Code](projects/Fetch%20HTTP%20status%20code) | [Fetch Open Ports](projects/Fetch_open_ports) | [Find IP Address and Hostname](projects/Find_out_hostname_and_ip_address) |
+| [Find IMDB Rating](projects/Find_imdb_rating) | [Games Collection](projects/Games) | [Geocoding](projects/Geocoding) |
+| [Get Meta Information](projects/Get_meta_information_of_images) | [Get WiFi Password](projects/Get_wifi_password) | [GUI Rock-Paper-Scissors](projects/GUI%20Rock-Paper-Scissors%20Game) |
+| [Hash Passwords](projects/Hashing_passwords) | [Image Watermark](projects/Image_watermark) | [Instagram Profile Info](projects/Instagram_profile) |
+| [Hello World](projects/Hello) | [Internet Connection Check](projects/Internet_connection_check) | [Language Translator](projects/Language_translator) |
+| [Leap Year Checker](projects/Leap_Year_Checker) | [MasterMind](projects/MasterMind) | [Merge CSV Files](projects/Merge_csv_files) |
+| [Merge PDFs](projects/Merge_pdfs) | [Movie Information Scraper](projects/Movie%20Information%20Scraper) | [Multi Language OCR](projects/Multi_language_OCR) |
+| [Network Usage Tracker](projects/Network%20Usage%20Tracker) | [News Website Scraper](projects/News_website_scraper) | [Number Guessing Game](projects/Number_guessing_game) |
+| [Organize Download Folder](projects/Organized_download_folder_with_different_categories) | [Password Generator](projects/Password_generator) | [PDF to MP3](projects/PDF%20to%20MP3) |
+| [Plagiarism Checker](projects/Plagarism_checker) | [Python Auto Draw](projects/Python_auto_draw) | [QR Code Generator](projects/Qr_code_generator) |
+| [Random Wikipedia Article](projects/Random_Wikipedia_Article) | [Random Password Generator](projects/Random_password_generator) | [Random Word from List](projects/Random_word_from_list) |
+| [Recursive Password Generator](projects/Recursive_password_generator) | [Reduce Image Size](projects/Reduce_image_file_size) | [RockPaperScissors Game](projects/RockPaperScissors_Game) |
+| [S3 File Upload](projects/S3_File_Upload) | [Scrape HackerNews](projects/Scrape_Hacker_News) | [Scrape Quotes](projects/Scrape_quotes) |
+| [Scraping Medium Articles](projects/Scraping%20Medium%20Articles) | [Set Alarm](projects/Set_Alarm) | [Shutdown or Restart Device](projects/Shutdown_or_restart_your_device) |
+| [Sine Wave](projects/Sine_Wave) | [Snake Game](projects/Snake%20Game) | [Snapshot of Website](projects/Snapshot_of_given_website) |
+| [Solver Linear Equations](projects/Solver_linear_equations) | [Space Bullet Shooter](projects/Space_bullet_shooter_game) | [Speaking Dictionary](projects/Speaking_Dictionary) |
+| [Speech to Text](projects/Speech_to_text) | [Speed Game](projects/Speed_Game) | [Spell Checker](projects/Spell_checker) |
+| [Split File](projects/Split_File) | [Split Video by Time](projects/Split_a_video_file_by_given_time_period) | [Split Folder into Subfolders](projects/Split_folder_into_subfolders) |
+| [Store Emails in CSV](projects/Store_emails_in_csv) | [String Search from Files](projects/String_search_from_multiple_files) | [Terminal Based Hangman](projects/Terminal_Based_Hangman_Game) |
+| [Terminal Progress Bar](projects/Terminal_progress_bar_with_images_resizing) | [Text to Speech](projects/Text_to_speech) | [Text File Analysis](projects/Textfile_analysis) |
+| [Tic Tac Toe](projects/Tic_tac_toe) | [Tic Tac Toe with AI](projects/Tic_tac_toe_with_ai) | [Time to Load Website](projects/Time_to_load_website) |
+| [Todo App with Flask](projects/Todo_app) | [Unique Words in File](projects/Unique_words_in_a_file) | [Unstructured Data Processing](projects/Unstructured%20Supplemenrary%20Service%20Data) |
+| [Web Page Summarization](projects/Web_page_summation) | [Web Scraping YouTube Comments](projects/Web_scraping_a_youtube_comment) | [Website Blocker](projects/Website_blocker) |
+| [WiFi Password Displayer](projects/Wifi_windows_password_displayer) | [Wikipedia Search WordCloud](projects/Wikipedia_search_wordcloud) | [Random Wallpaper Setter](projects/Write_a_script_to_download_a_random_image_from_unsplash_and_set_it_as_wallpaper) |
+| [Compress Folder and Files](projects/Write_script_to_compress_folder_and_files) | [Move Files Alphabetically](projects/Write_script_to_move_files_into_alphabetically_ordered_folder) | [XKCD Downloader](projects/XKCD_downloader) |
+| [Zip Bruter](projects/Zip_Bruter) | [Chatbot](projects/chatbot) | [Convert PDF to Text](projects/convert%20pdf%20to%20text) |
+| [Convert Images](projects/convert_Imgs) | [Convert Dictionary to Object](projects/convert_dictionary_to_python_object) | [Convert PNG to ICO](projects/convert_png_images_to_ico_format) |
+| [Detect Align Faces](projects/detect_align_faces) | [Dork Search Google](projects/dork_search_google) | [GeeksForGeeks Downloader](projects/download%20GeeksForGeeks%20articles) |
+| [Export MySQL to CSV](projects/export_mysql_to_csv_send_to_wocom) | [Racing Bar Chart Animation](projects/racing_barchart_animation) | [Steganography](projects/steganography) |
+| [Telegram Bot](projects/telegram_bot) | [Text to Morse Code](projects/text_to_morse_code) | [WhatsApp Bot](projects/whatsapp_Bot) |
+| [Create Simple Stopwatch](projects/Create_a_simple_stopwatch) | [File Encryption](projects/Create_a_script_to_encrypt_files_and_folder) | [Compute IoU](projects/Compute_IoU) |
 
 </div>
 
