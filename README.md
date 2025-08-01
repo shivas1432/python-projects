@@ -19,6 +19,10 @@ This repository serves as a learning platform where my students contribute Pytho
 - Create portfolio-worthy projects
 
 ## Tech Stack
+- **Programming Languages**: Python, JavaScript, HTML, CSS
+- **Frameworks**: Flask, Django, FastAPI
+- **Databases**: MySQL, MongoDB, SQLite
+- **Tools**: Git, VS Code, Postman
 
 ---
 
@@ -35,13 +39,13 @@ This repository serves as a learning platform where my students contribute Pytho
 2. **Fork** the repository to your GitHub account
 3. **Clone** your forked repository:
    ```bash
-   git clone https://github.com/<your-username>/python-mini-projects.git
-   cd python-mini-projects
+   git clone https://github.com/<your-username>/python-projects.git
+   cd python-projects
    ```
 
 4. **Set up upstream remote** to keep your fork synced:
    ```bash
-   git remote add upstream https://github.com/shivas1432/python-mini-projects.git
+   git remote add upstream https://github.com/shivas1432/python-projects.git
    git fetch upstream
    git pull upstream main
    ```
@@ -59,31 +63,74 @@ This repository serves as a learning platform where my students contribute Pytho
 
 ---
 
-## Project Categories
+## All Projects by Difficulty Level
 
-### Beginner Projects
-- **Hello World Variations** - Creative ways to print "Hello, World!"
-- **Calculator App** - Basic arithmetic operations
-- **Number Guessing Game** - Interactive guessing game
-- **Rock Paper Scissors** - Classic game implementation
-- **Password Generator** - Generate secure passwords
+<div align="center">
 
-### Intermediate Projects
-- **Weather App** - Fetch real-time weather data
-- **Todo Application** - Task management system
-- **Web Scraper** - Extract data from websites
-- **QR Code Generator** - Create QR codes for text/URLs
-- **File Organizer** - Automatically organize files by type
+| **Beginner Projects** | **Intermediate Projects** | **Advanced Projects** |
+|:---------------------:|:-------------------------:|:---------------------:|
+| Alarm Clock | All Links from Webpage | AudioBook |
+| ASCII Art | Battery Notification | Baidu POI Crawler |
+| Calculate Age | Billing System | Bouncing Ball Simulator |
+| Captcha Generator | Capture Screenshot | Capture Video Frames |
+| Cat Command | Check Website Connectivity | CLI Proxy Tester |
+| CLI Todo | Convert JPEG to PNG | Convert JSON to CSV |
+| Convert Image to PDF | Convert Numbers to Word | Convert XML to JSON |
+| Countdown Timer | Currency Converter | Desktop Cleaner |
+| Create Calculator App | Decimal to Binary Converter | Digital Clock |
+| Duplicate Files Remover | Diff Util | DNS Record |
+| Easy Video Player | Dominant Color | Download Images from Website |
+| Encrypt and Decrypt Text | Drowsiness Detection | Easy Cartoonify |
+| Extract Zip Files | Email Automation | Fetch Current Weather |
+| Fetch HTTP Status Code | Fetch and Store Tweets | Fetch Open Ports |
+| Find IMDB Rating | Find IP Address and Hostname | Games Collection |
+| Get Meta Information | Get WiFi Password | Geocoding |
+| GUI Rock-Paper-Scissors | Hash Passwords | Image Watermark |
+| Hello World | Instagram Profile Info | Internet Connection Check |
+| Language Translator | Leap Year Checker | MasterMind |
+| Merge CSV Files | Merge PDFs | Movie Information Scraper |
+| Multi Language OCR | Network Usage Tracker | News Website Scraper |
+| Number Guessing Game | Organize Download Folder | PDF to MP3 |
+| Password Generator | Plagiarism Checker | Python Auto Draw |
+| QR Code Generator | Random Wikipedia Article | Random Password Generator |
+| Random Word from List | Recursive Password Generator | Reduce Image Size |
+| RockPaperScissors Game | S3 File Upload | Scrape HackerNews |
+| Scrape Quotes | Scraping Medium Articles | Send Email from CSV |
+| Set Alarm | Shutdown or Restart Device | Sine Wave |
+| Snake Game | Snapshot of Website | Solver Linear Equations |
+| Space Bullet Shooter | Speaking Dictionary | Speech to Text |
+| Speed Game | Spell Checker | Split File |
+| Split Video by Time | Split Folder into Subfolders | Store Emails in CSV |
+| String Search from Files | Terminal Based Hangman | Terminal Progress Bar |
+| Text to Speech | Text File Analysis | Tic Tac Toe |
+| Tic Tac Toe with AI | Time to Load Website | Todo App with Flask |
+| Unique Words in File | Unstructured Data Processing | Web Page Summarization |
+| Web Scraping YouTube Comments | Website Blocker | WiFi Password Displayer |
+| Wikipedia Search WordCloud | Random Wallpaper Setter | Compress Folder and Files |
+| Move Files Alphabetically | XKCD Downloader | Zip Bruter |
+| Capture Screenshot Tool | Chatbot | Convert PDF to Text |
+| Convert Images | Convert Dictionary to Object | Convert PNG to ICO |
+| Detect Align Faces | Dork Search Google | GeeksForGeeks Downloader |
+| Export MySQL to CSV | Racing Bar Chart Animation | Steganography |
+| Telegram Bot | Text to Morse Code | WhatsApp Bot |
+| Birth Date to Age Calculator | File Encryption and Folder | Create Simple Stopwatch |
 
-### Advanced Projects
-- **Django Web Application** - Full-stack web development
-- **Machine Learning Models** - Implement ML algorithms
-- **API Development** - Create RESTful APIs
-- **Data Visualization** - Interactive charts and graphs
-- **Automation Scripts** - Automate repetitive tasks
+</div>
 
 ---
 
+## Project Categories
+
+### Beginner Projects (40+ Projects)
+Perfect for those starting their Python journey. These projects focus on basic syntax, loops, conditionals, and simple file operations.
+
+### Intermediate Projects (45+ Projects)
+For developers with some Python experience. These involve APIs, web scraping, GUI applications, and data processing.
+
+### Advanced Projects (35+ Projects)
+Complex projects involving machine learning, web frameworks, automation, and advanced algorithms.
+
+---
 
 ## Contributing
 
@@ -119,7 +166,6 @@ projects/
 ├── your_project_name/
 │   ├── main.py
 │   ├── requirements.txt
-│   ├── README.md
 │   └── assets/ (if needed)
 ```
 
@@ -127,63 +173,14 @@ projects/
 
 ## Contact
 
-<div align="center">
-  <table style="border-collapse: collapse; margin: 20px auto;">
-    <tr>
-      <td style="padding: 8px;">
-        <a href="mailto:shivashanker7337@gmail.com">
-          <img src="https://img.shields.io/badge/📧_EMAIL-FF6EC7?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117&color=FF6EC7" alt="Email"/>
-        </a>
-      </td>
-      <td style="padding: 8px;">
-        <a href="http://www.linkedin.com/in/shiva-kanugula-51a512252">
-          <img src="https://img.shields.io/badge/💼_LINKEDIN-00D4AA?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117&color=00D4AA" alt="LinkedIn"/>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td style="padding: 8px;">
-        <a href="https://shivashankerportfolio.netlify.app/">
-          <img src="https://img.shields.io/badge/🌐_PORTFOLIO-FFD700?style=for-the-badge&logo=firefox&logoColor=white&labelColor=0D1117&color=FFD700" alt="Portfolio"/>
-        </a>
-      </td>
-      <td style="padding: 8px;">
-        <a href="https://www.instagram.com/ss_web_servicess/">
-          <img src="https://img.shields.io/badge/📸_INSTAGRAM-DC143C?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0D1117&color=DC143C" alt="Instagram"/>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
+- **Email**: shivashanker7337@gmail.com
+- **LinkedIn**: [Shiva Kanugula](http://www.linkedin.com/in/shiva-kanugula-51a512252)
+- **Portfolio**: [shivashankerportfolio.netlify.app](https://shivashankerportfolio.netlify.app/)
+- **Instagram**: [@ss_web_servicess](https://www.instagram.com/ss_web_servicess/)
 
 ---
 
-## 🏆 Featured Projects
-
-### 🎯 Web Development Projects
-| Project | Description | Technologies | Level |
-|---------|-------------|--------------|-------|
-| **Flask Todo App** | Task management with user authentication | Flask, SQLite, HTML/CSS | Intermediate |
-| **Django Blog** | Full-featured blog with comments | Django, PostgreSQL, Bootstrap | Advanced |
-| **API Gateway** | RESTful API with authentication | FastAPI, JWT, MongoDB | Advanced |
-
-### 🤖 Automation & Utilities
-| Project | Description | Technologies | Level |
-|---------|-------------|--------------|-------|
-| **File Organizer** | Auto-organize downloads folder | Python, OS module | Beginner |
-| **Email Automation** | Send bulk personalized emails | SMTP, Pandas, Jinja2 | Intermediate |
-| **System Monitor** | Real-time system performance | psutil, matplotlib | Intermediate |
-
-### 📊 Data Science Projects
-| Project | Description | Technologies | Level |
-|---------|-------------|--------------|-------|
-| **Weather Analytics** | Analyze weather patterns | Pandas, Matplotlib, APIs | Intermediate |
-| **Stock Price Predictor** | ML model for stock prediction | Scikit-learn, NumPy | Advanced |
-| **Web Scraping Suite** | Extract data from various sites | BeautifulSoup, Selenium | Intermediate |
-
----
-
-## 📚 Learning Resources
+## Learning Resources
 
 ### Python Fundamentals
 - [Official Python Documentation](https://docs.python.org/3/)
@@ -202,51 +199,32 @@ projects/
 
 ---
 
+## Project Statistics
 
-## 💡 Project Ideas & Roadmap
-
-### 🚧 Upcoming Projects
-- [ ] **AI Chatbot** - Natural language processing
-- [ ] **Blockchain Simulator** - Cryptocurrency concepts
-- [ ] **IoT Dashboard** - Sensor data visualization
-- [ ] **Game Development** - Pygame projects
-- [ ] **Mobile App Backend** - API for mobile apps
-
-### 🎯 2025 Goals
-- Reach 100+ Python projects
-- Add machine learning section
-- Create video tutorials
-- Build community of 1000+ contributors
+- **Total Projects**: 120+
+- **Beginner Level**: 40+ projects
+- **Intermediate Level**: 45+ projects  
+- **Advanced Level**: 35+ projects
+- **Categories**: Web Development, Data Science, Automation, Games, GUI Applications, Security Tools
 
 ---
 
+## Why Choose This Repository?
 
-## 🌟 Why Choose This Repository?
-
-- **🎯 Structured Learning**: Projects organized by difficulty level
-- **📝 Comprehensive Documentation**: Each project includes detailed README
-- **🔧 Real-World Applications**: Practical projects you can use
-- **👨‍💻 Expert Guidance**: Created by experienced full-stack developer
-- **🤝 Community Support**: Active community for help and collaboration
-- **📊 Progress Tracking**: Track your learning journey
-- **🚀 Career Ready**: Build portfolio-worthy projects
+- **Structured Learning**: Projects organized by difficulty level
+- **Comprehensive Collection**: 120+ diverse Python projects
+- **Real-World Applications**: Practical projects you can use
+- **Expert Guidance**: Created by experienced full-stack developer
+- **Educational Focus**: Perfect for learning and skill development
+- **Portfolio Ready**: Build impressive projects for your portfolio
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=4000&pause=2000&color=FFFFFF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Thanks+for+visiting+my+Python+projects!;Let's+code+something+amazing+together!;Happy+Coding!+🐍✨" alt="Thanks"/>
-</div>
-
----
-
-<div align="center">
-  <sub>Made with ❤️ by <strong>Shivashanker</strong> in Cardiff, Wales</sub><br>
-  <sub>Full-Stack Web Developer | Python Expert | Cloud Architect</sub>
-</div>
+*Made with ❤️ by **Shivashanker** in Cardiff, Wales*  
+*Full-Stack Web Developer | Python Expert | Cloud Architect*
